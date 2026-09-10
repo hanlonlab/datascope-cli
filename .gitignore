@@ -1,0 +1,10 @@
+tmp/*
+db/*
+
+!tmp/.gitignore
+!db/.gitignore
+
+**/.ipynb_checkpoints/
+**/.DS_Store
+**/__pycache__
+**/.venv

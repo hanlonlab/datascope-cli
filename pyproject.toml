@@ -1,0 +1,9 @@
+[project]
+name = "datascope-cli"
+version = "0.1.0"
+description = "A simple CLI to download Tick History data from the DataScope API"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "requests>=2.27.0",
+]
